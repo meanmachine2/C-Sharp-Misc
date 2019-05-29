@@ -29,7 +29,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomCards", "RandomCards\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomNumberAddition", "RandomNumberAddition\RandomNumberAddition.csproj", "{9B1AB1CE-376B-4128-B21C-74DC7D56C205}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RcokPaperSc", "RcokPaperSc\RcokPaperSc.csproj", "{AFB55D37-FED7-4701-B535-45EB401BCA67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RcokPaperScisors", "RcokPaperSc\RcokPaperScisors.csproj", "{AFB55D37-FED7-4701-B535-45EB401BCA67}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rectangle", "Rectangle\Rectangle.csproj", "{F8F9143F-BE3E-424A-8BC3-1A43A3ED3745}"
 EndProject
