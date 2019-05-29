@@ -6,9 +6,9 @@ namespace TaxCalc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Unesiote status : ");
+            Console.WriteLine("Enter status : ");
             int status = int.Parse(Console.ReadLine());
-            Console.WriteLine("Unesite zaradu : ");
+            Console.WriteLine("Enter profit : ");
             int zarada = int.Parse(Console.ReadLine());
             double tax = 0;
             if (status == 1)

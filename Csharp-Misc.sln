@@ -9,15 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3DigitNumber", "3DigitNumbe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckNumber", "CheckNumber\CheckNumber.csproj", "{7783C765-FD0B-4918-B60F-2114A838A9CD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dayOfWeek", "dayOfWeek\dayOfWeek.csproj", "{48E3B641-4BE6-46DF-A5AD-9D181CAE619D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayOfWeek", "dayOfWeek\DayOfWeek.csproj", "{48E3B641-4BE6-46DF-A5AD-9D181CAE619D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "graduityRate", "graduityRate\graduityRate.csproj", "{1F796FF2-B0C7-4228-95F1-646DE3715020}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraduityRate", "graduityRate\GraduityRate.csproj", "{1F796FF2-B0C7-4228-95F1-646DE3715020}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "integerSum", "integerSum\integerSum.csproj", "{7915C89E-E6C6-49EB-BAFD-23BE41C41FC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerSum", "integerSum\IntegerSum.csproj", "{7915C89E-E6C6-49EB-BAFD-23BE41C41FC0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loan", "Loan\Loan.csproj", "{B9E20FA3-4CF6-4253-861F-97FC8747BE92}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "paramaterTriangle", "paramaterTriangle\paramaterTriangle.csproj", "{FE4E7244-2CD3-4F3C-8668-A1A105B83046}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParamaterTriangle", "paramaterTriangle\ParamaterTriangle.csproj", "{FE4E7244-2CD3-4F3C-8668-A1A105B83046}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointInCircle", "PointInRectangle\PointInCircle.csproj", "{A0944FF9-4AD9-4C32-92D8-023D31599825}"
 EndProject
