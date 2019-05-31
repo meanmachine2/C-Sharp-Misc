@@ -18,12 +18,16 @@ namespace GreatestCommonDivisor2Num
             }
             int commonDivisor = number2;
             bool greatestDivisor = false;
-            while (commonDivisor > 0 && greatestDivisor == false)
+            while (commonDivisor > 1 && greatestDivisor == false)
             {
                 if (number1 % commonDivisor == 0 && number2 % commonDivisor == 0) greatestDivisor = true;
                 else commonDivisor--;
             }
-            Console.WriteLine("Greatest divisor of two numbers is " + commonDivisor);
+            if (commonDivisor > 1) Console.WriteLine("Greatest divisor of two numbers is " + commonDivisor);
+            else Console.WriteLine("There is no common divisor");
+
+            
+            
         }
     }
 }
