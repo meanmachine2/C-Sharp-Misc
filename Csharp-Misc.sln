@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessingNumbers", "Guessing
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiple_Subtraction_Quiz", "Multiple_Subtraction_Quiz\Multiple_Subtraction_Quiz.csproj", "{F6BC676F-2BFF-47B6-9300-B58F2B7257F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{8B019BC1-BFAC-4DDC-8340-6459434D1D39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{8B019BC1-BFAC-4DDC-8340-6459434D1D39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestCommonDivisor2Num", "GreatestCommonDivisor2Num\GreatestCommonDivisor2Num.csproj", "{EEBD8FD8-03E8-44AD-9CCE-3A899C5AB01D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{8B019BC1-BFAC-4DDC-8340-6459434D1D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B019BC1-BFAC-4DDC-8340-6459434D1D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B019BC1-BFAC-4DDC-8340-6459434D1D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBD8FD8-03E8-44AD-9CCE-3A899C5AB01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBD8FD8-03E8-44AD-9CCE-3A899C5AB01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBD8FD8-03E8-44AD-9CCE-3A899C5AB01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBD8FD8-03E8-44AD-9CCE-3A899C5AB01D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
