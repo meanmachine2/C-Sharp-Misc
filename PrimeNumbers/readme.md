@@ -1,0 +1,1 @@
+﻿Display first 50 prime numbers
