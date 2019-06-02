@@ -19,8 +19,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loan", "Loan\Loan.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParamaterTriangle", "paramaterTriangle\ParamaterTriangle.csproj", "{FE4E7244-2CD3-4F3C-8668-A1A105B83046}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointInCircle", "PointInRectangle\PointInCircle.csproj", "{A0944FF9-4AD9-4C32-92D8-023D31599825}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointInRectangle2", "PointInRectangle2\PointInRectangle2.csproj", "{D094360C-7EC2-440A-9376-9C12CBA1CD43}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointInTriangle", "PointInTriangle\PointInTriangle.csproj", "{AFF08781-1DB3-4A08-9CEB-C39477D94BB3}"
@@ -49,11 +47,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplicationTable", "Mult
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreatestCommonDivisor2Num", "GreatestCommonDivisor2Num\GreatestCommonDivisor2Num.csproj", "{EEBD8FD8-03E8-44AD-9CCE-3A899C5AB01D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbers", "PrimeNumbers\PrimeNumbers.csproj", "{049B40B7-1DE4-4E92-BF8B-AE2B5AC55790}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeNumbers", "PrimeNumbers\PrimeNumbers.csproj", "{049B40B7-1DE4-4E92-BF8B-AE2B5AC55790}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositiveAndNegativeNumbers", "PositiveAndNegativeNumbers\PositiveAndNegativeNumbers.csproj", "{2889AD58-AE36-4077-B587-F09974ADC12B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PositiveAndNegativeNumbers", "PositiveAndNegativeNumbers\PositiveAndNegativeNumbers.csproj", "{2889AD58-AE36-4077-B587-F09974ADC12B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTuition", "FutureTuition\FutureTuition.csproj", "{5C298BE2-04EA-41A2-B555-2BC25A121774}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTuition", "FutureTuition\FutureTuition.csproj", "{5C298BE2-04EA-41A2-B555-2BC25A121774}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoHighestScores", "TwoHighestScores\TwoHighestScores.csproj", "{A6F936C9-0FCC-4DCF-AD28-B5807C7D88B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointInCircle", "PointInCircle\PointInCircle.csproj", "{E4FD8EF5-2A65-4215-AF21-F7104E447E71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,10 +95,6 @@ Global
 		{FE4E7244-2CD3-4F3C-8668-A1A105B83046}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE4E7244-2CD3-4F3C-8668-A1A105B83046}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE4E7244-2CD3-4F3C-8668-A1A105B83046}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A0944FF9-4AD9-4C32-92D8-023D31599825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0944FF9-4AD9-4C32-92D8-023D31599825}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0944FF9-4AD9-4C32-92D8-023D31599825}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0944FF9-4AD9-4C32-92D8-023D31599825}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D094360C-7EC2-440A-9376-9C12CBA1CD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D094360C-7EC2-440A-9376-9C12CBA1CD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D094360C-7EC2-440A-9376-9C12CBA1CD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -165,6 +163,14 @@ Global
 		{5C298BE2-04EA-41A2-B555-2BC25A121774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C298BE2-04EA-41A2-B555-2BC25A121774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C298BE2-04EA-41A2-B555-2BC25A121774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F936C9-0FCC-4DCF-AD28-B5807C7D88B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F936C9-0FCC-4DCF-AD28-B5807C7D88B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F936C9-0FCC-4DCF-AD28-B5807C7D88B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F936C9-0FCC-4DCF-AD28-B5807C7D88B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4FD8EF5-2A65-4215-AF21-F7104E447E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4FD8EF5-2A65-4215-AF21-F7104E447E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4FD8EF5-2A65-4215-AF21-F7104E447E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4FD8EF5-2A65-4215-AF21-F7104E447E71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
