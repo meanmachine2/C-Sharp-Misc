@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbers", "PrimeNumber
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositiveAndNegativeNumbers", "PositiveAndNegativeNumbers\PositiveAndNegativeNumbers.csproj", "{2889AD58-AE36-4077-B587-F09974ADC12B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureTuition", "FutureTuition\FutureTuition.csproj", "{5C298BE2-04EA-41A2-B555-2BC25A121774}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{2889AD58-AE36-4077-B587-F09974ADC12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2889AD58-AE36-4077-B587-F09974ADC12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2889AD58-AE36-4077-B587-F09974ADC12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C298BE2-04EA-41A2-B555-2BC25A121774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C298BE2-04EA-41A2-B555-2BC25A121774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C298BE2-04EA-41A2-B555-2BC25A121774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C298BE2-04EA-41A2-B555-2BC25A121774}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
