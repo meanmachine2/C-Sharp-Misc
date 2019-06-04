@@ -61,6 +61,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentsTwoHighestScores", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorsOfInteger", "FactorsOfInteger\FactorsOfInteger.csproj", "{89F0CA36-EB43-42E6-97E4-681C9D3D34EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayPyramid", "DisplayPyramid\DisplayPyramid.csproj", "{AA515144-1EED-42DA-B867-9FC4B08E4D4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{89F0CA36-EB43-42E6-97E4-681C9D3D34EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89F0CA36-EB43-42E6-97E4-681C9D3D34EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89F0CA36-EB43-42E6-97E4-681C9D3D34EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA515144-1EED-42DA-B867-9FC4B08E4D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA515144-1EED-42DA-B867-9FC4B08E4D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA515144-1EED-42DA-B867-9FC4B08E4D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA515144-1EED-42DA-B867-9FC4B08E4D4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
