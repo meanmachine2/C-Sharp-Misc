@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoHighestScores", "TwoHigh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointInCircle", "PointInCircle\PointInCircle.csproj", "{E4FD8EF5-2A65-4215-AF21-F7104E447E71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsTwoHighestScores", "StudentsTwoHighestScores\StudentsTwoHighestScores.csproj", "{88504436-F1AB-440D-A5F2-8C56523CD8F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentsTwoHighestScores", "StudentsTwoHighestScores\StudentsTwoHighestScores.csproj", "{88504436-F1AB-440D-A5F2-8C56523CD8F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorsOfInteger", "FactorsOfInteger\FactorsOfInteger.csproj", "{89F0CA36-EB43-42E6-97E4-681C9D3D34EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{88504436-F1AB-440D-A5F2-8C56523CD8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88504436-F1AB-440D-A5F2-8C56523CD8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88504436-F1AB-440D-A5F2-8C56523CD8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F0CA36-EB43-42E6-97E4-681C9D3D34EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F0CA36-EB43-42E6-97E4-681C9D3D34EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F0CA36-EB43-42E6-97E4-681C9D3D34EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F0CA36-EB43-42E6-97E4-681C9D3D34EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
