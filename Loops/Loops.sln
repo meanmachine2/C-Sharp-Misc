@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PyramidPatterns", "PyramidP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYear", "LeapYear\LeapYear.csproj", "{3B51B1D9-62B2-49FA-ABF1-982944C199DB}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FutureTuition", "FutureTuition\FutureTuition.csproj", "{D8C27924-D9A2-4207-8C2D-F6019FE9FF88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{3B51B1D9-62B2-49FA-ABF1-982944C199DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B51B1D9-62B2-49FA-ABF1-982944C199DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B51B1D9-62B2-49FA-ABF1-982944C199DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C27924-D9A2-4207-8C2D-F6019FE9FF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C27924-D9A2-4207-8C2D-F6019FE9FF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C27924-D9A2-4207-8C2D-F6019FE9FF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C27924-D9A2-4207-8C2D-F6019FE9FF88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
