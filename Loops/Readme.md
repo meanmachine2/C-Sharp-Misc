@@ -20,3 +20,5 @@ computes the tuition in ten years and the total cost of four years’ worth of t
 10. RockPaperScissorMetric - let the user continuously play until either the user or the computer wins more than two times
 
 11. DecimalToBinary - (Decimal to binary) Write a program that prompts the user to enter a decimal integer and displays its corresponding binary value. Do not use integrated functions
+
+12. DecimalToHex - (Decimal to hex) Write a program that prompts the user to enter a decimal integer and displays its corresponding hexadecimal value. Do not use integrated functions

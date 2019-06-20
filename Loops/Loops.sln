@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissorMetric", "R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToBinary", "DecimalToBinary\DecimalToBinary.csproj", "{A78C4AD8-C18A-42AE-98A1-0FDD94EE2E51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToHex", "DecimalToHex\DecimalToHex.csproj", "{E51445A1-A329-4832-ACB9-3CBDE0B1A951}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{A78C4AD8-C18A-42AE-98A1-0FDD94EE2E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A78C4AD8-C18A-42AE-98A1-0FDD94EE2E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A78C4AD8-C18A-42AE-98A1-0FDD94EE2E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51445A1-A329-4832-ACB9-3CBDE0B1A951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51445A1-A329-4832-ACB9-3CBDE0B1A951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51445A1-A329-4832-ACB9-3CBDE0B1A951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51445A1-A329-4832-ACB9-3CBDE0B1A951}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
