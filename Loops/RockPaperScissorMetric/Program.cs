@@ -37,8 +37,6 @@ namespace RockPaperScissorMetric
                     Console.Write("Player Wins");
                     playerWin++;
                 }
-                computer = 0;
-                player = 0;
                 Console.WriteLine();
             }          
         }
