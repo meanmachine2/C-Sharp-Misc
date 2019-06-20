@@ -8,3 +8,5 @@
 computes the tuition in ten years and the total cost of four years’ worth of tuition starting ten years from now.
 
 5. FactorOfInteger - Write a program that reads an integer and displays all its smallest factors in increasing order. For example, if the input integer is 120, the output should be as follows: 2, 2, 2, 3, 5.
+
+6. DisplayPyramid - Display pyramid ) Write a program that prompts the user to enter an integer from 1 to 10 and displays a pyramid,
