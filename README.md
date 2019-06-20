@@ -1,4 +1,4 @@
-Programming practice apps
+C# Programming practice apps
 
-Basic programming, Selection is located in "Selection" folder
-Loops
+1. Basic programming, Selection is located in "Selection" folder
+2. Loops
