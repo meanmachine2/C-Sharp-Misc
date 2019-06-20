@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeNumbersBetwen2and1000"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PyramidPatterns", "PyramidPatterns\PyramidPatterns.csproj", "{EF2EC160-F6AA-4FB2-A60A-F804A1886BDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYear", "LeapYear\LeapYear.csproj", "{3B51B1D9-62B2-49FA-ABF1-982944C199DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{EF2EC160-F6AA-4FB2-A60A-F804A1886BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF2EC160-F6AA-4FB2-A60A-F804A1886BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF2EC160-F6AA-4FB2-A60A-F804A1886BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B51B1D9-62B2-49FA-ABF1-982944C199DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B51B1D9-62B2-49FA-ABF1-982944C199DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B51B1D9-62B2-49FA-ABF1-982944C199DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B51B1D9-62B2-49FA-ABF1-982944C199DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

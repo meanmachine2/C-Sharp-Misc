@@ -19,7 +19,6 @@ namespace dayOfWeek
             {
                 month = 14;
                 year--;
-
             }
             Console.Write("Unesite dan: ");
             int day = int.Parse(Console.ReadLine());
