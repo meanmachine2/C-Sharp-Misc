@@ -12,3 +12,5 @@ computes the tuition in ten years and the total cost of four years’ worth of t
 6. DisplayPyramid - Display pyramid ) Write a program that prompts the user to enter an integer from 1 to 10 and displays a pyramid
 
 7. PrimeNumbersBetwen2to1000 - Display prime numbers between 2 and 1,000) display all the prime numbers between 2 and 1,000, inclusive. Display eight prime numbers per line. Numbers are separated by exactly one space
+
+8. Lottery - generate a lottery of a twodigit number. The two digits in the number are distinct
