@@ -18,3 +18,5 @@ computes the tuition in ten years and the total cost of four years’ worth of t
 9. PerfectNumber - Perfect number) A positive integer is called a perfect number if it is equal to the sum of all of its positive divisors, excluding itself. For example, 6 is the first perfect number because 6 = 3 + 2 + 1. The next is 28 = 14 + 7 + 4 + 2 + 1. There are four perfect numbers less than 10,000. Write a program to find all these four numbers
 
 10. RockPaperScissorMetric - let the user continuously play until either the user or the computer wins more than two times
+
+11. DecimalToBinary - (Decimal to binary) Write a program that prompts the user to enter a decimal integer and displays its corresponding binary value. Do not use integrated functions
