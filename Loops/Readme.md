@@ -6,3 +6,5 @@
 
 4. FutureTuition - Suppose that the tuition for a university is $10,000 this year and increases 5% every year. Write a program that
 computes the tuition in ten years and the total cost of four years’ worth of tuition starting ten years from now.
+
+5. FactorInteger - Write a program that reads an integer and displays all its smallest factors in increasing order. For example, if the input integer is 120, the output should be as follows: 2, 2, 2, 3, 5.
