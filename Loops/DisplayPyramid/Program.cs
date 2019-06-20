@@ -6,7 +6,7 @@ namespace DisplayPyramid
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter numer up to 13: ");
+            Console.Write("Enter numer up to 10: ");
             int number = int.Parse(Console.ReadLine());
             int space = (number * 2)+2;
             for (int i = 1; i <= number; i++)
