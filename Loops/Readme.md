@@ -22,3 +22,5 @@ computes the tuition in ten years and the total cost of four years’ worth of t
 11. DecimalToBinary - (Decimal to binary) Write a program that prompts the user to enter a decimal integer and displays its corresponding binary value. Do not use integrated functions.
 
 12. DecimalToHex - (Decimal to hex) Write a program that prompts the user to enter a decimal integer and displays its corresponding hexadecimal value. Do not use integrated functions.
+
+13. OccuranceOfMaxNumbers - Write a program that reads integers, finds the largest of them, and counts its occurrences. Assume that the input ends with number 0. Suppose that you entered 3 5 2 5 5 5 0; the program finds that the largest is 5 and the occurrence count for 5 is 4.
