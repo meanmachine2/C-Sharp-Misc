@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecimalToHex", "DecimalToHe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccuranceOfMaxNumbers", "OccuranceOfMaxNumbers\OccuranceOfMaxNumbers.csproj", "{471446FB-50A6-456D-A174-7F8F5B43F36E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeanAndDeviation", "MeanAndDeviation\MeanAndDeviation.csproj", "{3F98AAED-563B-428C-89BC-79A45B2ABF64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{471446FB-50A6-456D-A174-7F8F5B43F36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{471446FB-50A6-456D-A174-7F8F5B43F36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{471446FB-50A6-456D-A174-7F8F5B43F36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F98AAED-563B-428C-89BC-79A45B2ABF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F98AAED-563B-428C-89BC-79A45B2ABF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F98AAED-563B-428C-89BC-79A45B2ABF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F98AAED-563B-428C-89BC-79A45B2ABF64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
