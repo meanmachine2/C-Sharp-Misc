@@ -1,4 +1,4 @@
-C# Programming practice apps
+C# .NET Core Programming practice apps
 
 1. Basic programming
 2. Selection
